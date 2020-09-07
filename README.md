@@ -2,8 +2,7 @@
 
 A Crypto wallet app
 
-<img src="preview.png" height="600em" />
-<img src="preview1.png" height="600em" />
+<img src="preview.png" height="600em" /> <img src="preview1.png" height="600em" />
 
 ## Packages Used
 
